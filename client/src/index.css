@@ -238,7 +238,7 @@ form {
 .sidebar {
   /* border: 1px solid fuchsia; */
   background-color: #3c6382;
-  padding: 2rem 2.5rem;
+  padding: 2rem 2.5rem 2rem 2.5rem;
   display: flex;
   flex-direction: column;
   row-gap: 1.5rem;
@@ -321,7 +321,7 @@ form {
 
 .conversation .promptBox {
   position: absolute;
-  bottom: 0;
+  bottom: 4rem;
   right: 0;
   left: auto;
   width: 100%;
@@ -418,6 +418,10 @@ form {
   
   .sidebar,.conversation{
     margin-top: 3rem;
+  }
+
+  .sidebar {
+    padding: 2rem 2.5rem 4rem 2.5rem;
   }
 
   .modalBox {
