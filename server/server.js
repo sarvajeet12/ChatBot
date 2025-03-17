@@ -21,8 +21,7 @@ const _dirname = path.resolve();
 
 // TODO: tackle cors
 const corsOption = {
-    origin: "http://localhost:5173",
-    // origin: "https://hospital-mangement-system-app.onrender.com",
+    origin: "https://chatbot-c1at.onrender.com",
     methods: "GET, POST, PUT, DELETE, PATCH, HEAD",
     credentials: true,
     allowedHeaders: ['Authorization', 'Content-Type'],

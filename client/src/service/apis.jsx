@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:4000/api/v1";
+const BASE_URL = "https://chatbot-c1at.onrender.com/api/v1";
 
 export const auth = {
   SEND_OTP_API: BASE_URL + "/user/send-otp",
