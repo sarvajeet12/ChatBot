@@ -321,7 +321,7 @@ form {
 
 .conversation .promptBox {
   position: absolute;
-  bottom: 4rem;
+  bottom: 0rem;
   right: 0;
   left: auto;
   width: 100%;
@@ -422,6 +422,10 @@ form {
 
   .sidebar {
     padding: 2rem 2.5rem 4rem 2.5rem;
+  }
+
+  .conversation .promptBox {
+    bottom: 4rem;
   }
 
   .modalBox {
