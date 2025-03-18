@@ -314,7 +314,7 @@ form {
 
 .conversation {
   position: relative;
-  padding: 1rem 1rem 4rem 1rem;
+  padding: 1rem;
   /* border: 1px solid fuchsia; */
   background-color: #0a3d62;
 }
@@ -365,7 +365,7 @@ form {
   row-gap: 2rem;
   /* border: 1px solid #fff; */
   overflow-y: auto;
-  height: 80vh;
+  height: 100vh;
 }
 
 .conversation .conversationContent {
@@ -419,13 +419,13 @@ form {
     margin-top: 3rem;
   }
 
-  /* .sidebar {
-    padding: 2rem 2.5rem 4rem 2.5rem;
+  .conversation .conversationContentBox {
+    height: 75vh;
   }
 
-  .conversation {
-    padding: 1rem 1rem 4rem 1rem;
-  } */
+  .conversation .promptBox {
+    bottom: 4rem;
+  }
 
   .modalBox {
     width: 60%;
