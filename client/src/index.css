@@ -9,9 +9,9 @@ html {
   font-size: 62.5%;
 }
 
-/* body {
+body {
   overflow-y: hidden;
-} */
+}
 
 .container {
   /* border: 1px solid red; */
@@ -267,7 +267,7 @@ form {
 }
 
 .sidebar ul li {
-  padding: .5rem;
+  padding: 0.5rem;
   cursor: pointer;
   background-color: #60a3bc;
   color: #fff;
@@ -415,8 +415,7 @@ form {
 }
 
 @media (width < 768px) {
-  
-  .sidebar,.conversation{
+  .conversation {
     margin-top: 3rem;
   }
 
