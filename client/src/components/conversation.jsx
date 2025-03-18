@@ -36,7 +36,9 @@ const Conversation = () => {
       {chats && chats.length === 0 ? (
         <div className="conversationHeader">
           <h1 className="conversationNotChatYet">Hello, how can I help you?</h1>
-          <p className="conversationNotChatYet" style={{ marginTop: "5rem" }}>Create new chat to continue</p>
+          <p className="conversationNotChatYet" style={{ marginTop: "5rem" }}>
+            Create new chat to continue
+          </p>
         </div>
       ) : (
         <>
