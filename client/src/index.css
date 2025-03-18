@@ -209,7 +209,7 @@ form {
 }
 
 .dashboardContainer .dashboardContent {
-  height: 90vh;
+  height: 10vh;
   display: flex;
   justify-content: end;
   position: relative; /* this line help in to make responsive */
@@ -217,7 +217,7 @@ form {
 
 /* this line of code help in to make responsive */
 .sidebar {
-  height: 100%;
+  height: 100vh;
   width: 30%;
   position: absolute;
   top: 0;
