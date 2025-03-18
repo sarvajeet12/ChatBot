@@ -217,7 +217,7 @@ form {
 
 /* this line of code help in to make responsive */
 .sidebar {
-  height: 90%;
+  height: 100%;
   width: 30%;
   position: absolute;
   top: 0;
@@ -365,7 +365,7 @@ form {
   row-gap: 2rem;
   /* border: 1px solid #fff; */
   overflow-y: auto;
-  max-height: 90vh;
+  height: 98vh;
 }
 
 .conversation .conversationContent {
