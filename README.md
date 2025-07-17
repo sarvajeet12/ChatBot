@@ -205,10 +205,4 @@ ChatBot/
 
 ---
 
-## 📬 Contact
-
-For questions or support, email: [chatbotwebapp@gmail.com](mailto:chatbotwebapp@gmail.com)
-
----
-
 **Enjoy chatting! 🚀**
