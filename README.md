@@ -1,7 +1,7 @@
 # ChatBot MERN Application
 
 Welcome to the **ChatBot MERN Application**!  
-This is a full-stack, modern, and scalable chatbot platform built using the MERN stack (MongoDB, Express.js, React, Node.js). The app supports secure OTP-based authentication, real-time chat, and a clean, responsive UI.
+This is a full-stack, modern, and scalable chatbot platform built using the MERN stack (MongoDB, Express.js, React, Node.js). The app supports secure OTP-based authentication, real-time chat, and a clean, responsive  UI.
 
 ---
 
