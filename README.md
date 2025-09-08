@@ -5,7 +5,7 @@ This is a full-stack, modern, and scalable chatbot platform built using the MERN
 
 ---
 
-## 🌐 Deployment : https://chatbot-c1at.onrender.com
+## 🌐 Deployment : https://chatbot-c1at.onrender.co
 
 ---
 
