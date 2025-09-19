@@ -6,7 +6,7 @@ export const auth = {
   USER_DETAILS_API: BASE_URL + "/user/user-details",
 };
 
-export const chatConversation = {
+export const chatConversatio = {
   NEW_CHAT_API: BASE_URL + "/chat/new",
   GET_CHATS_API: BASE_URL + "/chat/get-chats",
   ADD_CONVERSATION_API: BASE_URL + "/chat/",
